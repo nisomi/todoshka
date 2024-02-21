@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">todoshka</string>
+    <string name="current_data"> </string>
+    <string name="edittext1_name">have a great day</string>
+    <string name="dataView">here will be data</string>
+    <string name="new_task">New Task</string>
+    <string name="save">Save</string>
+
+</resources>
